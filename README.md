@@ -73,20 +73,20 @@
 
 ---
 
+### 🎯 ProPick — 건강보조식품 추천 웹서비스 (팀 프로젝트)
+- **사용자 설문 결과를 기반으로**, 맞춤형 **단백질 보충제(프로틴)** 제품을 추천하는 웹서비스
+- **백엔드(Spring Boot & Thymeleaf)** 기반으로 설계 및 구현 담당
+- 주요 기술: Spring Boot, Thymeleaf, MySQL  
+🔗 [프로젝트 레포](https://github.com/semi-ProPick/propick)
+
+---
+
 ### 🧾 MINUTE — 라이프스타일 영상 큐레이팅 플랫폼 (팀 프로젝트)
 - 유튜브 Shorts API 기반으로 **사용자 맞춤 영상 콘텐츠를 추천**하는 웹서비스
 - 라이프스타일 기반 큐레이션 알고리즘 설계 및 **React 기반 프론트엔드와 Spring Boot 기반 백엔드 모두 담당**하여 풀스택으로 참여
 - 주요 기술: React, SpringBoot, MySQL, Youtube Data API, AWS  
 🔗 [프론트엔드 레포](https://github.com/MINUTE-FinalProject/minute_front)  
 🔗 [백엔드 레포](https://github.com/MINUTE-FinalProject/minute_backend)
-
----
-
-### 🎯 ProPick — 건강보조식품 추천 웹서비스 (팀 프로젝트)
-- **사용자 설문 결과를 기반으로**, 맞춤형 **단백질 보충제(프로틴)** 제품을 추천하는 웹서비스
-- **백엔드(Spring Boot & Thymeleaf)** 기반으로 설계 및 구현 담당
-- 주요 기술: Spring Boot, Thymeleaf, MySQL  
-🔗 [프로젝트 레포](https://github.com/semi-ProPick/propick)
 
 ---
 
